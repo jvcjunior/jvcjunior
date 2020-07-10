@@ -1,16 +1,24 @@
-### Hi there 👋
 
+## 👋  Hy, my name is Valter Jr: 
 <!--
-**jvcjunior/jvcjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduated in Computer Science, Frontend developer with 9+ years of experience in projecting and maintaining Web applications using HTML, CSS, JS, Angular, React, IONIC and others frameworks.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Angular projects
+
+- 🌱 I’m currently learning about scalability, performance in javascript apps. 
+
+- 👯 I’m looking to collaborate on react/node projects.
+
+- 🤔 I’m looking for help with scalability, performance in node. 
+
+- 💬 Ask me about anything :)
+
+- 📫 How to reach me: Just scream  my name and I'll be there. 😄
+
+- 😄 Pronouns: happy
+
+- ⚡ Fun fact: I'm from Brazil, but living i n Paraguay. 
+--!>
+
