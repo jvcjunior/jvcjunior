@@ -5,11 +5,11 @@ Graduated in Computer Science, Frontend developer with 9+ years of experience in
 
 ## About Me
 
-- 🔭 I’m currently working on React/Node/Angular projects
+- 🔭 I’m currently working on React/Node/Java/AWS projects
 
-- 🌱 I’m currently learning about scalability, performance, functional programming in javascript. 
+- 🌱 I’m currently learning about scalability, performance, functional programming. 
 
-- 👯 I’m looking to collaborate on React/Node projects.
+- 👯 I’m looking to collaborate on Node/React projects.
 
 - 🤔 I’m looking for help with scalability, performance in node. 
 
