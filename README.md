@@ -1,7 +1,7 @@
 
 ## 👋  Hy, my name is Valter Jr: 
 
-Graduated in Computer Science, Frontend developer with 9+ years of experience in projecting and maintaining Web applications using HTML, CSS, JS, Angular, React, Ionic and other frameworks. I'm studying functional programming currently to create more concise and reusable code.
+Graduated in Computer Science, Frontend developer with 8+ years of experience in projecting and maintaining web applications using Node, React, Java, JS, HTML, CSS, AWS and other frameworks/platforms. I'm studying functional programming currently to create more concise and reusable code.
 
 ## About Me
 
